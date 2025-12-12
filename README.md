@@ -7,17 +7,23 @@ Vrinda Store Data Analysis (1).xlsx
 
 ## Questions (KPI's)
 
--Compare the sales and orders using single chart
--Which month got the highest sales and orders?
--Who purchased more- men or women in 2022?
--What are different order status in 2022?
--List top 10 states contributing to the sales?
--Relation between age and gender based on number
--Which channel is contributing to maximum sales?
--Highest selling category?, etc.
+- Compare the sales and orders using single chart
+- Which month got the highest sales and orders?
+- Who purchased more- men or women in 2022?
+- What are different order status in 2022?
+- List top 10 states contributing to the sales?
+- Relation between age and gender based on number
+- Which channel is contributing to maximum sales?
+- Highest selling category?, etc.
 
  ## Dashboard interaction
- - <a 
-   
+2025-12-12.png
+
+## Process
+- Imported raw sales data into Excel.
+- Performed data cleaning: removed duplicates, fixed formats, and organized fields.
+- Built PivotTables to analyze sales, customers, and regions.
+- Created PivotCharts and added slicers for interactivity.
+- Designed a dashboard to display key insights and KPIs.  
    
  
