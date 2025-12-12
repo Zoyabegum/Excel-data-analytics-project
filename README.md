@@ -1,2 +1,2 @@
-# Excel-data-analytics-project
-Overview  Excel project analyzing sales data through cleaning, transformation, and visual dashboards.  Techniques  Used PivotTables, PivotCharts, slicers, and KPIs.  Outcome  Delivered an interactive dashboard with key sales and customer insights.
+#Vrinda-Store-Data-Analysis (interactive dashboard creation using MS Excel)
+##Project Objective                                                                                                                                                                                                                               The objective of this project is to analyze sales data using Excel by performing data cleaning, organizing the dataset, and creating interactive dashboards. It aims to identify key trends, customer patterns, and business insights to support data-driven decision-making.
