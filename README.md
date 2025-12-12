@@ -28,5 +28,13 @@ Vrinda Store Data Analysis (1).xlsx
 
 ## Dashboard
   https://github.com/Zoyabegum/Excel-data-analytics-project/blob/main/2025-12-12.png
-   
+
+## Insights
+- Women contributed the highest sales share.  
+- Maharashtra, Karnataka, and Uttar Pradesh were top-performing states.
+- Adults (30–49) formed the largest customer group.
+- Amazon, Flipkart, and Myntra drove most sales.
+  
+## Conclusion
+The analysis shows that women in the 30–49 age group are the primary buyers, with Maharashtra, Karnataka, and Uttar Pradesh contributing the highest sales. Online channels like Amazon, Flipkart, and Myntra drive most revenue, making them ideal platforms for promotions. By targeting key customer groups with personalized offers and focusing marketing efforts on top-performing states and channels, Vrinda Store can significantly improve sales growth and customer engagement.
  
