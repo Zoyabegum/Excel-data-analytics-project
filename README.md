@@ -15,3 +15,9 @@ Vrinda Store Data Analysis (1).xlsx
 -Relation between age and gender based on number
 -Which channel is contributing to maximum sales?
 -Highest selling category?, etc.
+
+ ## Dashboard interaction
+ - <a 
+   
+   
+ 
