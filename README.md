@@ -27,6 +27,6 @@ Vrinda Store Data Analysis (1).xlsx
 - Designed a dashboard to display key insights and KPIs.
 
   ## Dashboard
-  C:\Users\Uzma\OneDrive\Pictures\Screenshots
+  https://github.com/Zoyabegum/Excel-data-analytics-project/blob/main/2025-12-12.png
    
  
