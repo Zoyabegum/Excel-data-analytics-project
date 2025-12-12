@@ -26,7 +26,7 @@ Vrinda Store Data Analysis (1).xlsx
 - Created PivotCharts and added slicers for interactivity.
 - Designed a dashboard to display key insights and KPIs.
 
-  ## Dashboard
+## Dashboard
   https://github.com/Zoyabegum/Excel-data-analytics-project/blob/main/2025-12-12.png
    
  
