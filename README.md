@@ -24,6 +24,9 @@ Vrinda Store Data Analysis (1).xlsx
 - Performed data cleaning: removed duplicates, fixed formats, and organized fields.
 - Built PivotTables to analyze sales, customers, and regions.
 - Created PivotCharts and added slicers for interactivity.
-- Designed a dashboard to display key insights and KPIs.  
+- Designed a dashboard to display key insights and KPIs.
+
+  ## Dashboard
+  C:\Users\Uzma\OneDrive\Pictures\Screenshots
    
  
