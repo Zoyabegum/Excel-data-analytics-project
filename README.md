@@ -29,7 +29,7 @@ Vrinda Store Data Analysis (1).xlsx
 ## Dashboard
   https://github.com/Zoyabegum/Excel-data-analytics-project/blob/main/2025-12-12.png
 
-## Insights
+## Project Insights
 - Women contributed the highest sales share.  
 - Maharashtra, Karnataka, and Uttar Pradesh were top-performing states.
 - Adults (30–49) formed the largest customer group.
